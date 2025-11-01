@@ -11,7 +11,7 @@
 - Vue
 
 ### 🔭 Loyiham:
-- [Quiz App](https://github.com/Muhammadsardor/quiz-app)
+- [Quiz App](https://github.com/Muhammadsardorbek/quiz-app)
 
 ### 📫 Aloqa:
 - Telegram: [@username](https://t.me/username)
