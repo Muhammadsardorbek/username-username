@@ -29,12 +29,12 @@
 ---
 
 ### 📊 Statistikalar:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadsardor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsardor&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadsardorbek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsardorbek&layout=compact&theme=radical)
 
 ---
 
 ### 🖼️ Banner (ixtiyoriy)
-Rasm yuklab qo‘ygan bo‘lsang, shu joyga rasmni chiqar:
+Agar rasmni reponing ichiga yuklagan bo‘lsang:
 ```html
 <img src="Screenshot 2025-03-31 222716.png" width="100%">
